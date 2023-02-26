@@ -1,0 +1,125 @@
+{
+    "age": 34,
+    "sex": "F",
+    "characteristics": {
+        "STR": [
+            60,
+            30,
+            12
+        ],
+        "CON": [
+            50,
+            25,
+            10
+        ],
+        "SIZ": [
+            40,
+            20,
+            8
+        ],
+        "DEX": [
+            70,
+            35,
+            14
+        ],
+        "APP": [
+            50,
+            25,
+            10
+        ],
+        "EDU": [
+            60,
+            30,
+            12
+        ],
+        "INT": [
+            80,
+            40,
+            16
+        ],
+        "POW": [
+            50,
+            25,
+            10
+        ]
+    },
+    "primary_skills": {
+        "Anthropology": [
+            70,
+            35,
+            14
+        ],
+        "History": [
+            60,
+            30,
+            12
+        ],
+        "Medicine": [
+            60,
+            30,
+            12
+        ],
+        "Charm": [
+            50,
+            25,
+            10
+        ],
+        "Credit Rating": [
+            50,
+            25,
+            10
+        ],
+        "Appraise": [
+            50,
+            25,
+            10
+        ],
+        "Listen": [
+            40,
+            20,
+            8
+        ],
+        "Archaeology": [
+            40,
+            20,
+            8
+        ],
+        "Navigate": [
+            40,
+            20,
+            8
+        ]
+    },
+    "secondary_skills": {
+        "Fast Talk": [
+            25,
+            12,
+            5
+        ],
+        "Intimidate": [
+            35,
+            17,
+            7
+        ],
+        "Library Use": [
+            40,
+            20,
+            8
+        ],
+        "Op.Hv. Medicine": [
+            21,
+            10,
+            4
+        ]
+    },
+    "phobias": " Triskadekaphobia: Fear of the number 13.",
+    "manias": " Melomania: obsession with music or a specific tune.",
+    "bonus": 0,
+    "build": 0,
+    "dodge": 35,
+    "hit points": 9,
+    "magic points": 10,
+    "move": 8,
+    "sanity": 50,
+    "luck": 40
+}
